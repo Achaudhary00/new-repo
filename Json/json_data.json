@@ -1,0 +1,26 @@
+{
+   "student1" : {
+      "name" : "arpit",
+	  "branch" : "CS-Mainframe",
+	  "Roll" : "14",
+	  "SAP-id": 500022998
+   },
+   "student2" : {
+      "name" : "ankush",
+	  "branch" : "CS-Mainframe",
+	  "Roll" : "07",
+	  "SAP-id": 500023146
+   },
+   "student3" : {
+      "name" : "gaurav",
+	  "branch" : "CS-Mainframe",
+	  "Roll" : "18",
+	  "SAP-id": 500012345
+   },
+   "student4" : {
+      "name" : "vineet",
+	  "branch" : "CS-Mainframe",
+	  "Roll" : "48",
+	  "SAP-id": 500012345
+   }
+}
